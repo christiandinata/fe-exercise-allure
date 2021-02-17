@@ -28,7 +28,7 @@ https://material-ui.com/ -- Material-UI official docs (styling)
 
 ## Running locally in development mode
 
-To get started, just clone the repository and run `npm install && npm run dev`:
+To get started, just clone the repository and run `npm install && npm run dev` (separately):
 
     git clone https://github.com/christiandinata/fe-exercise-allure.git
     npm install
